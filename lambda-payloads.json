@@ -1,0 +1,16 @@
+{
+    "mdpzoomcallback": {
+        "lambda": {
+            "resource": "/zoom/callback",
+            "path": "/zoom/callback",
+            "httpMethod": "GET",
+            "queryStringParameters": {
+                "code": "NRShi3UpRx_X2Dt0TaITISvvbu0gQshQA"
+            },
+            "pathParameters": null,
+            "stageVariables": null,
+            "body": null,
+            "isBase64Encoded": false
+        }
+    }
+}
